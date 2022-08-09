@@ -1,5 +1,13 @@
 # SDK for Python Clients CHANGELOG
 
+## 1.0.0-beta.2 build 20220809
+
+_Compatible with Lightstreamer Server since 7.2._<br>
+_Released on 9 August 2022_
+
+Fixed the exception `TypeError: can only concatenate str (not "int") to str` that could have concealed a network error.
+
+
 ## 1.0.0-beta.1 build 20220624
 
 _Compatible with Lightstreamer Server since 7.2._<br>
