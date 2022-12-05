@@ -1,5 +1,14 @@
 # SDK for Python Clients CHANGELOG
 
+## 1.0.1 build 20221205
+_Compatible with Lightstreamer Server since 7.3.0._<br>
+_Compatible with code developed for the previous versions._<br>
+_Released on 5 Dec 2022._
+
+<!-- 2022/12/05 -->
+Fixed a bug that could have caused a `Subscription` object not to be deleted after a call to `LightstreamerClient.unsubscribe`.
+
+
 ## 1.0.0 build 20221122
 _Compatible with Lightstreamer Server since 7.3.0._<br>
 _Not compatible with code developed for the previous versions._<br>
