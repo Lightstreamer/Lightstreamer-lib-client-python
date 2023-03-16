@@ -1,8 +1,8 @@
 # Lightstreamer Python Client SDK
 
-Lightstreamer Python Client SDK enables any Python application to communicate bidirectionally with a [Lightstreamer Server](http://www.lightstreamer.com). The API allows to subscribe to real-time data pushed by the server and to send any message to the server.
+> ⚠️ This project has changed home. The new official **Python Client SDK** repository is now [here](https://github.com/Lightstreamer/Lightstreamer-lib-client-haxe).
 
-⚠️ This library is automatically generated from the Lightstreamer Haxe Client SDK, which is going to be made available soon in a separate Github project.
+Lightstreamer Python Client SDK enables any Python application to communicate bidirectionally with a [Lightstreamer Server](http://www.lightstreamer.com). The API allows to subscribe to real-time data pushed by the server and to send any message to the server.
 
 ## Installation
 
